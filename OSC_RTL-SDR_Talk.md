@@ -20,14 +20,14 @@
 
 
 ### Overview of SDR (cont.)
-![hardware receiver example](/assets/img/hardware_receiver_example.png)
+![hardware receiver example](assets/img/hardware_receiver_example.png)
 * Traditionally analog, which is expensive
 * What if we could do all of the tasks in software?  _We can with software-defined radio_
 
 
 ## RTL-SDR
-![RTL-SDRs](/assets/img/rtl-sdrs.png)
-* Very inexpensive (\$10-\$30) USB dongle SDR
+![RTL-SDRs](assets/img/rtl-sdrs.png)
+* Very inexpensive ($10-$30) USB dongle SDR
 * Gives us the RF front end to our PC to interface with GNU Radio
 * Only receives, can't transmit
 
@@ -42,14 +42,14 @@
 
 
 ## Overview of [RPiTX](https://github.com/F5OEO/rpitx) (cont.)
-* What are it's downsides? (e.g. Why spend \$300 on a HackRF if I can just use this?)
+* What are it's downsides? (e.g. Why spend $300 on a HackRF if I can just use this?)
     * Beta quality software - even doing something as simple as disabling automatic logic on the RPi broke transmission
     * Very limited output power
     * **Harmonics**
 
 
 ### A (very) Brief Explanation of Why We Have Harmonics
-![fourier series harmonics](/assets/img/fourier_series_harmonics_scale.jpg)
+![fourier series harmonics](assets/img/fourier_series_harmonics_scale.jpg)
 
 
 ## RPiTX Disclaimer
