@@ -7,7 +7,6 @@
 ## About Me
 * Senior in Electrical Engineering at Ohio State
 * President of Amateur Radio Club at Ohio State (W8LT)
-* Member of Open Source Club for 3 years, active for 1.5
 
 
 
